@@ -1,0 +1,9 @@
+/**
+ switch(giá trị theo dõi){
+     case: ....
+     break;
+     case...
+     break;
+     default....
+ }
+ */
